@@ -1,5 +1,3 @@
-RAR0632
-
 Rhea Ramaiya
 
 HOW TO PLAY: 
