@@ -1,2 +1,2 @@
 # Angry Birds in Assembly
-Assembly code for angrybirds game
+Angry Birds game written in x86 assembly language
