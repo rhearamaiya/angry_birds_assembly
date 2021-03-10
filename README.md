@@ -1,2 +1,2 @@
-# angry_birds_assembly
+# Angry Birds Assembly
 Assembly code for angrybirds game
